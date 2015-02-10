@@ -14,4 +14,11 @@
 
 - Design/Style overall
 - Fix bugs
-  -- multi author
+  - multi author
+
+---
+
+#### General Notes
+
+Is there a better term than Dev Rel?
+- Dev Growth?
